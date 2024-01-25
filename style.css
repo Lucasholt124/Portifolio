@@ -1,0 +1,58 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+    background-color: black;
+    text-align: center;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 40px 0;
+}
+
+section {
+    padding: 60px 0;
+}
+
+#about, #projects, #contact {
+    background-color: #f4f4f4;
+}
+
+h2 {
+    color: white;
+}
+
+.project {
+    margin-bottom: 40px;
+}
+
+footer {
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+a {
+    color: #007bff;
+}
+p{
+    color: white;
+}
+.containe{
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+    background-color: black;
+
+}
